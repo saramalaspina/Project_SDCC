@@ -9,7 +9,6 @@ To execute the project follow the next steps:
 1. Modify the file requirements.txt with the personal information from the AWS account
    
 2. Create 5 bucket S3 to store:
-   
    1. The state of the round robin used in the Scheduler
    2. The carbon information collected from MetricServer
    3. The best regions selected from Analyzer
