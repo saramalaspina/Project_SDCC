@@ -9,11 +9,11 @@ To execute the project follow the next steps:
 1. Modify the file requirements.txt with the personal information from the AWS account
    
 2. Create 5 bucket S3 to store:
-   1. The state of the round robin used in the Scheduler
-   2. The carbon information collected from MetricServer
-   3. The best regions selected from Analyzer
-   4. The images to resize with ImageResizing
-   5. The images resized with ImageResizing
+      - The state of the round robin used in the Scheduler
+      - The carbon information collected from MetricServer
+      - The best regions selected from Analyzer
+      - The images to resize with ImageResizing
+      - The images resized with ImageResizing
 
 3. Modify the name of the buckets in the Lambda functions and the client
    
